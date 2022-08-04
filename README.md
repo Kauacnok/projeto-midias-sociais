@@ -2,7 +2,7 @@
 	<h1 align='center'>Projeto midias sociais</h1>
 </p>
 <p align='center'> 
-	<img src="https://i.imgur.com/FMKDnql.png" alt="Imagem com o layout de feedback com as opções para escolher que são: problema, ideia e outro">
+	<img src="https://i.imgur.com/hqAOm5z.png" alt="Imagem com o layout do projeto de midias sociais">
 </p>
 
 ## 🧪 Tecnologias
