@@ -50,7 +50,6 @@ section#redes-sociais {
 	text-align: right;
 }
 
-
 section#redes-sociais img {
 	width: 60px;
 	height: 60px;
@@ -59,11 +58,9 @@ section#redes-sociais img {
 	border-radius: 50%; 
 	border: 1px solid black;
 	box-sizing: border-box;
-	transition-duration: 5s;
-	transition: all 2s linear 0s;
+	transition-duration: 2s;
 }
 
 section#redes-sociais img:hover {
-	transition: all 2s linear 1s;
-	border-radius: 0px;
+	border-radius: 10px;
 }
